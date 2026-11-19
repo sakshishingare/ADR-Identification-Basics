@@ -1,0 +1,122 @@
+# Task 4: ADR Severity and Case Classification
+
+## 1. Introduction
+
+Adverse Drug Reaction (ADR) classification is an important component of pharmacovigilance. It helps evaluate the clinical impact of adverse reactions and supports appropriate patient safety monitoring.
+
+This assessment focuses on two important parameters:
+
+- **Seriousness:** Determines whether an adverse event meets regulatory criteria for a serious event.
+- **Expectedness:** Determines whether the reported reaction is consistent with the applicable approved product information.
+
+## 2. Classification Criteria
+
+### 2.1 Seriousness
+
+An adverse drug reaction is classified as serious if it results in any of the following:
+
+1. Death.
+2. Life-threatening condition.
+3. Initial or prolonged hospitalization.
+4. Persistent or significant disability or incapacity.
+5. Congenital anomaly or birth defect.
+6. Other medically important conditions requiring intervention to prevent serious outcomes.
+
+**Non-serious ADR:** An adverse reaction that does not meet any of the above seriousness criteria.
+
+### 2.2 Expectedness
+
+- **Expected ADR:** A reaction consistent with the applicable approved product information.
+- **Unexpected ADR:** A reaction whose nature, severity or specificity is inconsistent with the applicable approved product information.
+
+Expectedness must be verified using the relevant product information.
+
+## 3. Individual Case Classification
+
+### Case 1: Amoxicillin
+
+| Parameter | Assessment |
+|---|---|
+| Suspected drug | Amoxicillin |
+| Adverse reaction | Skin rash and itching |
+| Seriousness | Non-serious |
+| Expectedness | Expected |
+
+**Clinical interpretation:** Skin rash and itching are recognised adverse reactions associated with amoxicillin. The poster classifies this reaction as non-serious and expected.
+
+### Case 2: Ibuprofen
+
+| Parameter | Assessment |
+|---|---|
+| Suspected drug | Ibuprofen |
+| Adverse reaction | Gastrointestinal bleeding requiring hospitalization |
+| Seriousness | Serious |
+| Expectedness | Expected |
+
+**Clinical interpretation:** Gastrointestinal bleeding requiring hospitalization meets the regulatory seriousness criterion of inpatient hospitalization. Gastrointestinal bleeding is a recognised adverse reaction associated with NSAIDs.
+
+### Case 3: Metformin
+
+| Parameter | Assessment |
+|---|---|
+| Suspected drug | Metformin |
+| Adverse reaction | Lactic acidosis |
+| Seriousness | Serious |
+| Expectedness | Unexpected (as classified in the poster) |
+
+**Clinical interpretation:** Lactic acidosis is a potentially life-threatening condition and is classified as serious. The poster identifies this reaction as unexpected. In actual pharmacovigilance reporting, expectedness should be checked against the applicable approved product information because lactic acidosis is a recognised safety concern with metformin.
+
+### Case 4: Atorvastatin
+
+| Parameter | Assessment |
+|---|---|
+| Suspected drug | Atorvastatin |
+| Adverse reaction | Elevated liver enzymes (mild) |
+| Seriousness | Non-serious |
+| Expectedness | Requires verification |
+
+**Clinical interpretation:** Mild elevation of liver enzymes is classified as non-serious in the poster. Expectedness must be verified against the applicable atorvastatin product information.
+
+### Case 5: Levofloxacin
+
+| Parameter | Assessment |
+|---|---|
+| Suspected drug | Levofloxacin |
+| Adverse reaction | Tendon rupture |
+| Seriousness | Serious |
+| Expectedness | Requires verification |
+
+**Clinical interpretation:** Tendon rupture is classified as serious in the poster because of its potential for significant functional impairment. Expectedness must be verified against the applicable levofloxacin product information.
+
+## 4. Summary of ADR Classification
+
+| Drug | Adverse Reaction | Seriousness | Expectedness |
+|---|---|---|---|
+| Amoxicillin | Skin rash and itching | Non-serious | Expected |
+| Ibuprofen | GI bleeding | Serious | Expected |
+| Metformin | Lactic acidosis | Serious | Unexpected |
+| Atorvastatin | Mildly elevated liver enzymes | Non-serious | Requires verification |
+| Levofloxacin | Tendon rupture | Serious | Requires verification |
+
+## 5. Overall Findings
+
+- Total cases assessed: 5
+- Serious ADRs: 3
+- Non-serious ADRs: 2
+- Expected reactions identified in poster: 2
+- Unexpected reaction identified in poster: 1
+- Expectedness requiring verification: 2
+
+## 6. Conclusion
+
+The five cases demonstrate the importance of evaluating seriousness and expectedness independently during pharmacovigilance assessment.
+
+Among the five reported cases, three were classified as serious and two as non-serious. Expectedness was identified as expected for amoxicillin and ibuprofen, and unexpected for metformin, according to the poster. The expectedness classifications for atorvastatin and levofloxacin require verification.
+
+This exercise highlights the importance of accurate ADR documentation, regulatory seriousness criteria and reference product information in patient safety monitoring.
+
+## 7. References
+
+1. International Council for Harmonisation (ICH). E2A: Clinical Safety Data Management – Definitions and Standards for Expedited Reporting.
+2. International Council for Harmonisation (ICH). E2D(R1): Post-Approval Safety Data – Definitions and Standards for Management and Reporting of Individual Case Safety Reports.
+3. Applicable approved prescribing information for amoxicillin, ibuprofen, metformin, atorvastatin and levofloxacin.
