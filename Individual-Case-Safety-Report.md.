@@ -1,0 +1,179 @@
+# INDIVIDUAL CASE SAFETY REPORT (ICSR)
+
+**Internship Project:** ADR Identification Basics  
+**Assignment:** Task 5 – Individual Case Safety Report  
+**Case:** Amoxicillin-associated suspected adverse drug reaction
+
+---
+
+## 1. Patient Information
+
+| Parameter | Details |
+|---|---|
+| Patient Name | Ramesh Patel |
+| Age | 32 years |
+| Gender | Male |
+| Weight | 65 kg |
+| Diagnosis | Acute Bacterial Sinusitis |
+| Past History | No history of allergy |
+| Family History | No family history of diabetes or hypertension |
+
+## 2. Suspected Drug Information
+
+| Parameter | Details |
+|---|---|
+| Drug Name | Amoxicillin |
+| Dosage Form | Tablet |
+| Dose | 500 mg |
+| Frequency | Three times daily (TID) |
+| Duration | 5 days (prescribed) |
+| Indication | Acute Bacterial Sinusitis |
+| Start Date | 01 March 2026 |
+| Discontinuation Date | 03 March 2026 |
+
+## 3. Adverse Drug Reaction Information
+
+| Parameter | Details |
+|---|---|
+| Suspected ADR | Generalized itching and skin rashes over chest |
+| Onset Date | 03 March 2026 |
+| Time to Onset | Approximately 2 days after starting treatment |
+| Action Taken | Amoxicillin discontinued |
+| Treatment Given | Antihistamines |
+| Outcome | Recovered completely |
+| Recovery Date | 06 March 2026 |
+
+## 4. Case Description
+
+A 32-year-old male patient weighing 65 kg was diagnosed with acute bacterial sinusitis and prescribed tablet amoxicillin 500 mg three times daily for five days, starting on 01 March 2026.
+
+On 03 March 2026, approximately two days after initiating treatment, the patient developed generalized itching and skin rashes over the chest.
+
+Following the occurrence of the suspected adverse drug reaction, amoxicillin was discontinued on the same day. The patient was treated with antihistamines and recovered completely by 06 March 2026.
+
+The temporal relationship between drug administration and the onset of the reaction raises suspicion of an amoxicillin-associated cutaneous adverse reaction.
+
+## 5. ADR Identification
+
+- **Suspected drug:** Amoxicillin
+- **Adverse reaction:** Generalized itching and skin rash
+- **Temporal association:** Reaction developed after initiation of amoxicillin.
+- **Dechallenge:** Symptoms resolved following drug discontinuation and antihistamine treatment.
+- **Rechallenge:** Not reported.
+- **Alternative causes:** Insufficient information to determine.
+
+**Identified suspected ADR:** Amoxicillin-associated skin reaction.
+
+## 6. Causality Assessment – Naranjo Scale
+
+| No. | Naranjo Assessment Question | Response | Score |
+|---|---|---|---:|
+| 1 | Are there previous conclusive reports of this reaction? | Do not know (not established from case details) | 0 |
+| 2 | Did the reaction appear after the suspected drug was administered? | Yes | +2 |
+| 3 | Did the reaction improve after discontinuation or administration of an antagonist? | Yes | +1 |
+| 4 | Did the reaction reappear after readministration? | Do not know | 0 |
+| 5 | Were there alternative causes that could have caused the reaction? | Do not know | 0 |
+| 6 | Did the reaction reappear when placebo was given? | Do not know | 0 |
+| 7 | Was the drug detected in blood at toxic concentrations? | Do not know | 0 |
+| 8 | Was the reaction more severe with increased dose or less severe with decreased dose? | Do not know | 0 |
+| 9 | Did the patient experience a similar reaction previously? | Do not know | 0 |
+| 10 | Was the adverse event confirmed by objective evidence? | Do not know | 0 |
+| | **Total Score** | | **3** |
+
+### Naranjo Score Interpretation
+
+| Score | Causality Category |
+|---|---|
+| 9 or above | Definite |
+| 5–8 | Probable |
+| 1–4 | Possible |
+| 0 | Doubtful |
+
+**Final Causality Assessment: POSSIBLE**
+
+The score is 3 based on the information available in the case scenario. The relationship is supported by the timing of the reaction and improvement following discontinuation, although other causes have not been adequately evaluated.
+
+## 7. Seriousness Assessment
+
+The reported reaction includes generalized itching and skin rashes over the chest.
+
+The case does not report:
+- Death
+- Life-threatening condition
+- Hospitalization or prolonged hospitalization
+- Persistent or significant disability
+- Congenital anomaly
+- Another medically important event
+
+**Provisional classification: NON-SERIOUS**
+
+This classification must be confirmed because the case does not provide a complete assessment of hospitalization, medical intervention, or other regulatory seriousness criteria.
+
+## 8. Expectedness Assessment
+
+The reported reactions are generalized itching and skin rash following amoxicillin administration.
+
+These manifestations are recognized types of reactions associated with amoxicillin treatment. However, the exact product and its applicable reference safety information have not been provided.
+
+**Provisional classification: EXPECTED**
+
+Final expectedness must be verified against the applicable amoxicillin Summary of Product Characteristics (SmPC) or approved product information.
+
+## 9. Treatment and Patient Outcome
+
+1. Suspected medicine was discontinued on 03 March 2026.
+2. Antihistamines were administered.
+3. Patient recovered completely by 06 March 2026.
+4. No further adverse reaction or complication was reported in the case scenario.
+
+## 10. Clinical Assessment
+
+The patient developed generalized itching and skin rashes approximately two days after starting amoxicillin therapy.
+
+The reaction improved following discontinuation of the suspected medicine and administration of antihistamines.
+
+The clinical timeline supports a possible association between amoxicillin and the reported cutaneous reaction.
+
+However, the absence of rechallenge information, detailed clinical examination, concomitant medication history, and evaluation of alternative causes limits the certainty of the causality assessment.
+
+The event should be documented as a suspected adverse drug reaction rather than a confirmed drug allergy.
+
+## 11. Final ICSR Summary
+
+| Assessment Parameter | Final Result |
+|---|---|
+| Patient | Ramesh Patel |
+| Suspected Drug | Amoxicillin |
+| Dose | 500 mg TID |
+| Adverse Reaction | Generalized itching and skin rash |
+| Onset | 03 March 2026 |
+| Causality | Possible |
+| Naranjo Score | 3 |
+| Seriousness | Provisionally Non-serious |
+| Expectedness | Provisionally Expected |
+| Drug Withdrawal | Yes |
+| Treatment | Antihistamines |
+| Outcome | Recovered |
+| Recovery Date | 06 March 2026 |
+
+## 12. Conclusion
+
+This case describes a suspected adverse drug reaction associated with amoxicillin in a 32-year-old male patient treated for acute bacterial sinusitis.
+
+The patient developed generalized itching and skin rashes two days after starting amoxicillin 500 mg three times daily. The suspected drug was discontinued, antihistamines were administered, and complete recovery occurred by 06 March 2026.
+
+The Naranjo causality assessment produced a score of 3, indicating a **Possible** association.
+
+Based on the information available, the reaction is provisionally classified as non-serious and expected, subject to verification against the applicable reference safety information.
+
+This case highlights the importance of early ADR identification, appropriate documentation, causality assessment, and patient safety monitoring.
+
+## 13. References
+
+1. Naranjo CA, Busto U, Sellers EM, et al. A method for estimating the probability of adverse drug reactions. *Clinical Pharmacology & Therapeutics*. 1981;30(2):239–245.
+2. International Council for Harmonisation (ICH). E2A: Clinical Safety Data Management – Definitions and Standards for Expedited Reporting.
+3. International Council for Harmonisation (ICH). E2D: Post-Approval Safety Data Management.
+4. Applicable amoxicillin product information or Summary of Product Characteristics (SmPC), to be consulted for final expectedness assessment.
+
+
+*Educational case assessment only. This document is not a regulatory submission or a substitute for clinical judgment.*
